@@ -1,0 +1,24 @@
+{
+   "categoria1":[
+   {
+      "categoria":"SINGLE BARREL COLLECTION",
+      "titulo":["SINGLE BARREL SELECT","SINGLE BARREL RYE","SINGLE BARREL BARREL STRENGTH","SINGLE BARREL 100 PROOF"],
+      "subtitulo":["OUR SIGNATURE SINGLE BARREL OFFERING.",
+      "OUR FIRST NEW GRAIN BILL IN 150 YEARS.",
+       "FROM BARREL TO BOTTLE TO GLASS",
+      "BOTTLED IN BOND."],
+      "detalles":["Bottled at 94-proof, Single Barrel Select layers subtle notes of caramel and spice with bright fruit notes and sweet aromatics for a Tennessee Whiskey with one-of-a-kind flavor.",
+       "This historic creation marries the smoothness of Jack Daniel’s with a unique 70% rye grain bill. Complex flavors of ripe fruit mingle with light toasted oak notes to create a taste rich with spice and a pleasant lingering finish. This is a big, bold rye that does not overpower.",
+       "Selected by our Master Distiller and presented at 129 proof, this high character single barrel Tennessee Whiskey reflects the flavor imparted by our handmade, toasted and charred, American Oak barrels. Bottled a barrel at a time, Barrel Strength lifts Jack's trademark vanilla and toasted oak flavors to bold new levels for an aromatic and smooth whiskey experience, complemented by notes of sweet brown sugar that give way to hints of dark spice. Barrel Strength is available in select markets globally.",
+       "Bottled in Bond at 100-proof so you can experience the full depth and intensity of its rich flavor. This smooth, aromatic Tennessee Whiskey is only available in select duty-free airports around the world."],
+     "subdetalles":["DRAWS DISTINCT FLAVORS FROM BARREL,ROBUST CHARACTER,NOTES OF CARAMEL AND SPICE",
+     "GRAIN-FORWARD CHARACTER, 70% RYE, 18% CORN, 12% BARLEY,OUR FIRST NEW MASH RECIPE SINCE 1866",
+     "RICH TOASTED OAK FLAVOR, NOTES OF BROWN SUGAR AND SPICE, ROBUST YET SMOOTH",
+     "RARE AND DISTINCT SMOOTHNESS, SLIGHT DIFFERENCES FROM BOTTLE TO BOTTLE, RICH AND COMPLEX"],
+     "ubicacion":["img/cat1.jpg","img/cat2.jpg","img/cat3.jpg","img/cat4.jpg"]
+   }
+   
+    ]
+
+}
+
