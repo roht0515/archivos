@@ -1,6 +1,5 @@
 {
-   "categoria1":[
-   {
+   
       "categoria":"SINGLE BARREL COLLECTION",
       "titulo":["SINGLE BARREL SELECT","SINGLE BARREL RYE","SINGLE BARREL BARREL STRENGTH","SINGLE BARREL 100 PROOF"],
       "subtitulo":["OUR SIGNATURE SINGLE BARREL OFFERING.",
@@ -16,10 +15,12 @@
      "RICH TOASTED OAK FLAVOR, NOTES OF BROWN SUGAR AND SPICE, ROBUST YET SMOOTH",
      "RARE AND DISTINCT SMOOTHNESS, SLIGHT DIFFERENCES FROM BOTTLE TO BOTTLE, RICH AND COMPLEX"],
      "ubicacion":["img/cat1.jpg","img/cat2.jpg","img/cat3.jpg","img/cat4.jpg"],
-      "precio":["60","50","55","58"]
-   }
+     "precio":["60","50","55","58"]
    
-    ]
+   
+    
 
 }
+
+
 
