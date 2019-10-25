@@ -1,30 +1,30 @@
 {
    
-      "categoria":["SINGLE BARREL COLLECTION","SINGLE BARREL COLLECTION","SINGLE BARREL COLLECTION","SINGLE BARREL COLLECTION","GENTLEMAN JACK","TENNESSEE HONEY"],
-      "titulo":["SINGLE BARREL SELECT","SINGLE BARREL RYE","SINGLE BARREL BARREL STRENGTH","SINGLE BARREL 100 PROOF","GENTLEMAN JACK","TENNESSEE HONEY"],
-      "subtitulo":["OUR SIGNATURE SINGLE BARREL OFFERING.",
-      "OUR FIRST NEW GRAIN BILL IN 150 YEARS.",
-       "FROM BARREL TO BOTTLE TO GLASS",
-       "BOTTLED IN BOND.",
-       "FILTRADO DOS VECES, PARA UNA SUAVIDAD EXCEPCIONAL.",
-       "UN POCO DE MIEL, MUCHO DE JACK."],
-      "detalles":["Bottled at 94-proof, Single Barrel Select layers subtle notes of caramel and spice with bright fruit notes and sweet aromatics for a Tennessee Whiskey with one-of-a-kind flavor.",
-       "This historic creation marries the smoothness of Jack Daniel’s with a unique 70% rye grain bill. Complex flavors of ripe fruit mingle with light toasted oak notes to create a taste rich with spice and a pleasant lingering finish. This is a big, bold rye that does not overpower.",
-       "Selected by our Master Distiller and presented at 129 proof, this high character single barrel Tennessee Whiskey reflects the flavor imparted by our handmade, toasted and charred, American Oak barrels. Bottled a barrel at a time, Barrel Strength lifts Jack's trademark vanilla and toasted oak flavors to bold new levels for an aromatic and smooth whiskey experience, complemented by notes of sweet brown sugar that give way to hints of dark spice. Barrel Strength is available in select markets globally.",
-       "Bottled in Bond at 100-proof so you can experience the full depth and intensity of its rich flavor. This smooth, aromatic Tennessee Whiskey is only available in select duty-free airports around the world.",
-       "Inspirado por el caballero original y nuestro fundador, Gentleman Jack recibe un segundo filtrado en carbón para alcanzar una suavidad excepcional. Su sabor balanceado es perfecto para celebrar las situaciones extraordinarias de la vida, además de los momentos en general.",
-       "Una mezcla de Jack Daniel's Tennessee Whiskey con un único licor de miel, de producción propia, para un sabor incomparable e inconfundiblemente Jack. Con tonos de miel y una terminación naturalmente suave, Jack Daniel's Tennessee Honey ofrece el sabor de lo inesperado."          ],
-     "subdetalles":["DRAWS DISTINCT FLAVORS FROM BARREL,ROBUST CHARACTER,NOTES OF CARAMEL AND SPICE",
-     "GRAIN-FORWARD CHARACTER, 70% RYE, 18% CORN, 12% BARLEY,OUR FIRST NEW MASH RECIPE SINCE 1866",
-     "RICH TOASTED OAK FLAVOR, NOTES OF BROWN SUGAR AND SPICE, ROBUST YET SMOOTH",
-     "RARE AND DISTINCT SMOOTHNESS, SLIGHT DIFFERENCES FROM BOTTLE TO BOTTLE, RICH AND COMPLEX",
-      "FILTRADO DOS VECES EN CARBÓN, UN FINAL EXCEPCIONALMENTE SUAVE, BALANCEADO SABOR A ROBLE CON NOTAS DE CARAMELO Y VAINILLA",
-      "HECHO CON MIEL REAL, MEZCLADO CON OLD NO. 7, SABOR SUAVE, NATURALMENTE DULCE"],
-     "ubicacion":["img/cat1.jpg","img/cat2.jpg","img/cat3.jpg","img/cat4.jpg", "img/cat5.jpg","img/cat6.jpg"],
-     "precio":["60","50","55","58","48","70"]
-   
-   
-    
+  "categoria":["SINGLE BARREL COLLECTION","SINGLE BARREL COLLECTION","SINGLE BARREL COLLECTION","SINGLE BARREL COLLECTION","GENTLEMAN JACK","TENNESSEE HONEY"],
+  "titulo":["SINGLE BARREL SELECT","SINGLE BARREL RYE","SINGLE BARREL BARREL STRENGTH","SINGLE BARREL 100 PROOF","GENTLEMAN JACK","TENNESSEE HONEY"],
+  "subtitulo":["NUESTRO DISTINTIVO SINGLE BARREL SELECT.",
+  "NUESTRA PRIMERA NUEVA RECETA DE GRANO EN 150 AÑOS",
+   "DEL BARRIL A LA BOTELLA, Y LUEGO AL VASO",
+   "EMBOTELLADO EN BOND",
+   "FILTRADO DOS VECES, PARA UNA SUAVIDAD EXCEPCIONAL.",
+   "UN POCO DE MIEL, MUCHO DE JACK."],
+  "detalles":[" Embotellado a 94 grados, Single Barrel Select muestra notas de caramelo y especias, con brillantes notas de fruta y dulces aromas para un Tennessee Whiskey con un sabor sin igual.",
+   "Esta creación histórica combina la suavidad de Jack Daniel's con una única mezcla de 70% de grano de centeno. Sabores complejos de fruta madura combinados con notas suaves de tostado de roble, para crear un sabor rico en especias y un final placentero. Se trata de un gran y atrevido Tennessee Whiskey de centeno.",
+   "Seleccionado por nuestro Maestro Destilador y presentado a 129 grados, este Single Barrel Tennessee Whiskey de gran carácter refleja el sabor impartido por nuestros barriles tostados, hechos a mano, con roble americano. Embotellado un barril a la vez, Barrel Strength lleva los reconocidos sabores de vainilla y roble tostado a atrevidos nuevos niveles, para conseguir una aromática y suave experiencia de whiskey, complementada por toques de dulce azúcar morena, que otorga notas de especias. Barrel Strength está disponible globalmente, en mercados seleccionados.",
+   "Embotellado en Bond a 100 grados de alcohol, para que puedas experimentar la completa profundidad e intensidad de su rico sabor. Este suave y aromático Tennessee Whiskey sólo está disponible en tiendas duty-free seleccionadas alrededor del mundo.",
+   "Inspirado por el caballero original y nuestro fundador, Gentleman Jack recibe un segundo filtrado en carbón para alcanzar una suavidad excepcional. Su sabor balanceado es perfecto para celebrar las situaciones extraordinarias de la vida, además de los momentos en general.",
+   "Una mezcla de Jack Daniel's Tennessee Whiskey con un único licor de miel, de producción propia, para un sabor incomparable e inconfundiblemente Jack. Con tonos de miel y una terminación naturalmente suave, Jack Daniel's Tennessee Honey ofrece el sabor de lo inesperado."          ],
+ "subdetalles":["ADQUIERE DISTINTIVOS SABORES DEL BARRIL, CARÁCTER ROBUSTO, NOTAS DE CARAMELO Y ESPECIAS",
+ "CARÁCTER DE GRANO, 70% CENTENO, 18% MAÍZ, 12% CEBADA, NUESTRA PRIMERA RECETA NUEVA DESDE 1866",
+ "RICO SABOR A ROBLE TOSTADO, NOTAS DE AZÚCAR MORENA Y ESPECIAS, ROBUSTO PERO SUAVE",
+ "EXCEPCIONAL Y DISTINTIVA SUAVIDAD, PEQUEÑAS DIFERENCIAS ENTRE BOTELLAS, RICO Y COMPLEJO",
+  "FILTRADO DOS VECES EN CARBÓN, UN FINAL EXCEPCIONALMENTE SUAVE, BALANCEADO SABOR A ROBLE CON NOTAS DE CARAMELO Y VAINILLA",
+  "HECHO CON MIEL REAL, MEZCLADO CON OLD NO. 7, SABOR SUAVE, NATURALMENTE DULCE"],
+ "ubicacion":["img/cat1.jpg","img/cat2.jpg","img/cat3.jpg","img/cat4.jpg", "img/cat5.jpg","img/cat6.jpg"],
+ "precio":["60","50","55","58","48","70"]
+
+
+
 
 }
 
